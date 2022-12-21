@@ -1,2 +1,2 @@
 # Dashboard-patient
-A python dashboard using plotly for patient's vital signs
+A python dashboard using Dash for patient's vital signs
