@@ -1,2 +1,2 @@
 # Dashboard-patient
-A python dashboard using Dash for patient's vital signs
+A python dashboard deployed on AWS beanstalk and using Dash for patient's vital signs 
